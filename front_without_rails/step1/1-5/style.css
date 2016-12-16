@@ -1,0 +1,29 @@
+.wrapper {
+}
+.list {
+  background-color: blue;
+  width: 100%;
+  padding: 4px;
+  width: 100%;
+  color: white;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}
+
+.block {
+  border: 1px solid gray;
+  padding: 20px;
+  width: 70px;
+  border-radius: 10px;
+}
+.block:hover {
+  background-color: gray;
+}
+
+.img {
+  height: 70px;
+  width: 70px;
+}
