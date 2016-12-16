@@ -27,8 +27,11 @@ persisted?
 
 参考文献
 junichi ito: http://qiita.com/jnchito/items/dedb3b889ab226933ccf#nil%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%ABobjecttrymethod_name%E3%82%92%E4%BD%BF%E3%81%86
+
 qiita: http://qiita.com/kidach1/items/a00558cfb0a6a3e23f4b
+
 ちだっち: http://qiita.com/hc0208/items/45cce0f3f3c843c03c01
+
 reference: http://ref.xaio.jp/ruby/classes/array/append
 
 ## Array#map
