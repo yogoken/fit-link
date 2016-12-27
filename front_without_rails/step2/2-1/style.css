@@ -1,0 +1,43 @@
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 10px;
+}
+
+.btn {
+  padding: 14px 24px;
+  border: 0 none;
+  letter-spacing: 1px;
+  background-color: #FFF;
+  border: 1px solid;
+}
+
+.btn-lg {
+  padding: 14px 24px;
+  font-size: 20px;
+}
+
+.btn-md {
+  padding: 10px 12px;
+  font-size: 14px;
+}
+
+.btn-sm {
+  padding: 8px 10px;
+  font-size: 12px;
+}
+
+.btn-xs {
+  padding: 6px 8px;
+  font-size: 10px;
+}
+
+.btn-left {
+  border-radius: 7px 0px 0px 7px;
+}
+
+.btn-right {
+  border-radius: 0px 7px 7px 0px;
+}
