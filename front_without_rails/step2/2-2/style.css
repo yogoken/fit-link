@@ -1,0 +1,31 @@
+.label {
+  border-radius: 7px;
+  color: #FFF;
+  font-size: 15px;
+  margin: 2px;
+  padding: 10px;
+}
+
+.label-default {
+  background-color: black;
+}
+
+.label-primary {
+  background-color: blue;
+}
+
+.label-success {
+  background-color: green;
+}
+
+.label-info {
+  background-color: #00FFFF;
+}
+
+.label-warning {
+  background-color: #cc6633;
+}
+
+.label-danger {
+  background-color: red;
+}
